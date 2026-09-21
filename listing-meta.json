@@ -1,0 +1,21 @@
+{
+  "slug": "whatsapp-web-agent",
+  "repo": "whatsapp-web-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/whatsapp-web-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "whatsapp",
+    "messaging",
+    "crm",
+    "web"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/whatsapp-web-agent"
+}
